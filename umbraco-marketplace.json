@@ -1,0 +1,25 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "Title": "Mevisto Countdown",
+  "Description": "Sticky campaign/urgency bar with countdown and CTA for Umbraco 16 (.NET 9). Mobile-optimized, gradient presets, dismiss & persistence.",
+  "Categories": "Campaign & Marketing",
+  "PackageType": "Package",
+  "LicenseTypes": ["Free"],
+  "DocumentationUrl": "https://github.com/mevistoswe/mevisto-countdown-docs#readme",
+  "IssueTrackerUrl": "https://github.com/mevistoswe/mevisto-countdown-docs/issues",
+  "Screenshots": [
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/mevistoswe/mevisto-countdown-docs/refs/heads/main/Screenshot1.png",
+      "Caption": "Sticky bar with CTA"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/mevistoswe/mevisto-countdown-docs/refs/heads/main/Screenshot2.png",
+      "Caption": "Mobile compact CTA"
+    },
+     {
+      "ImageUrl": "https://raw.githubusercontent.com/mevistoswe/mevisto-countdown-docs/refs/heads/main/Screenshot3.png",
+      "Caption": "Sticky bar with CTA Black Friday Theme"
+    }
+  ],
+  "Tags": ["countdown", "banner", "cta", "marketing", "sticky"]
+}

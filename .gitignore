@@ -1,0 +1,6 @@
+# If you ever enable GitHub Pages / tooling
+node_modules/
+.sass-cache/
+.jekyll-cache/
+_site/
+.DS_Store

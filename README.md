@@ -131,4 +131,5 @@ E-mail: goddag@mevisto.se
 
 ## 📄 License
 
-Proprietary EULA — see the [License Info](https://www.nuget.org/packages/Mevisto.Countdown/1.1.0/License) on NuGet.
+Proprietary EULA 
+
